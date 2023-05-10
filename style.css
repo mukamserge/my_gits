@@ -1,0 +1,25 @@
+ 
+ /* agir sur les paragraphes*/
+ p {
+    color: blue;
+}
+
+/* agir sur les titres*/
+
+h1 {
+    color: red;
+}
+
+/* agir sur les listes*/
+li {
+    color: greenyellow;
+}
+
+/* ou encore mettre plusieurs ensembles et séparés par des virgules*/
+h1,h2 
+{
+    color: red;
+}
+.ma-classe {
+    color: magenta;
+}
