@@ -16,9 +16,9 @@ li {
 }
 
 /* ou encore mettre plusieurs ensembles et séparés par des virgules*/
-h1,h2 
+h1,h2,h3 
 {
-    color: red;
+    color: green;
 }
 .ma-classe {
     color: magenta;
